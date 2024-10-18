@@ -137,7 +137,8 @@ Feel free to explore the repository and run the solution by following the instru
 2. Navigate to the project directory.
 3. Run the program using:
 
-   RUN "node index.js"
+   RUN "npm install"
+       "node index.js"
 
 
 Ensure you input the job details as prompted by the program.

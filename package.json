@@ -1,0 +1,22 @@
+{
+  "name": "job-selection-app",
+  "version": "1.0.0",
+  "description": "job selection app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tituskaswii/Tushop-Back-End-Engineer-Titus-Kaswii.git"
+  },
+  "author": "Titus Kaswii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tituskaswii/Tushop-Back-End-Engineer-Titus-Kaswii/issues"
+  },
+  "homepage": "https://github.com/tituskaswii/Tushop-Back-End-Engineer-Titus-Kaswii#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
